@@ -1,0 +1,5 @@
+models/
+runs/
+segmentation_full_body_mads_dataset_1192_img/
+.vscode/
+__pycache__/
